@@ -1,6 +1,9 @@
 # New-Light-Technologies-Project
 Leveraging News and Media for Situational Awareness
 
+
+---
+
 Callie Bouzane, Sara Almeida, Marielle Marcus 
 
 ## Problem Statement 
