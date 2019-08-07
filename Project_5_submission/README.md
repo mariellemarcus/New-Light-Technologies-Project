@@ -22,7 +22,7 @@ To train the content-based recommender, we used the News API, which is an API th
 **Data Dictionary**
 
 | Feature | Description |
-| --- | --- | --- |
+| --- | --- |
 | Content | The content of the article | 
 | Description | A summary of the article |
 | Published At | Date the article was published | 
@@ -33,10 +33,10 @@ To train the content-based recommender, we used the News API, which is an API th
 
 **Limitations**
 
-(1) you can only access the first 100 articled per query
-(2) you can only pull from articles within the last month
-(3) there is a limited number of request per 24 hours  
-(4) source column was inaccurate - we corrected for this by extracting data from the url column, using Regular Expression (RegEx) 
+1. you can only access the first 100 articled per query
+2. you can only pull from articles within the last month
+3. there is a limited number of request per 24 hours  
+4. source column was inaccurate - we corrected for this by extracting data from the url column, using Regular Expression (RegEx) 
 
 **Model Summary**
 
@@ -65,8 +65,8 @@ While we were happy with our recommender and the data collected, there were chal
 ## Sources 
 
 
-[LINK](https://newsapi.org/)
+[https://newsapi.org/]
 
-[LINK](https://www.datacamp.com/community/tutorials/recommender-systems-python?utm_source=adwords_ppc&utm_campaignid=1565261270&utm_adgroupid=67750485268&utm_device=c&utm_keyword=&utm_matchtype=b&utm_network=g&utm_adpostion=1t1&utm_creative=332661264371&utm_targetid=aud-522010995285:dsa-473406569915&utm_loc_interest_ms=&utm_loc_physical_ms=1018127&gclid=Cj0KCQjwyerpBRD9ARIsAH-ITn_LfMdHbYHake9SSueRPugpfzvuslA8sGTEwpScrvWdQ3hFQYFF1iEaAun-EALw_wcB\)
+[https://www.datacamp.com/community/tutorials/recommender-systems-python?utm_source=adwords_ppc&utm_campaignid=1565261270&utm_adgroupid=67750485268&utm_device=c&utm_keyword=&utm_matchtype=b&utm_network=g&utm_adpostion=1t1&utm_creative=332661264371&utm_targetid=aud-522010995285:dsa-473406569915&utm_loc_interest_ms=&utm_loc_physical_ms=1018127&gclid=Cj0KCQjwyerpBRD9ARIsAH-ITn_LfMdHbYHake9SSueRPugpfzvuslA8sGTEwpScrvWdQ3hFQYFF1iEaAun-EALw_wcB\]
 
-[LINK](https://www.datacamp.com/community/tutorials/wordcloud-python)
+[https://www.datacamp.com/community/tutorials/wordcloud-python]
