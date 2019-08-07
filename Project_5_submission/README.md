@@ -65,7 +65,7 @@ While we were happy with our recommender and the data collected, there were chal
 ## Sources 
 
 
-[https://newsapi.org/]
+https://newsapi.org/
 
 [https://www.datacamp.com/community/tutorials/recommender-systems-python?utm_source=adwords_ppc&utm_campaignid=1565261270&utm_adgroupid=67750485268&utm_device=c&utm_keyword=&utm_matchtype=b&utm_network=g&utm_adpostion=1t1&utm_creative=332661264371&utm_targetid=aud-522010995285:dsa-473406569915&utm_loc_interest_ms=&utm_loc_physical_ms=1018127&gclid=Cj0KCQjwyerpBRD9ARIsAH-ITn_LfMdHbYHake9SSueRPugpfzvuslA8sGTEwpScrvWdQ3hFQYFF1iEaAun-EALw_wcB\]
 
